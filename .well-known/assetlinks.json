@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.wriddhi.jaboi",
+      "sha256_cert_fingerprints": [
+        "2E:01:CA:D9:86:5B:4D:05:8F:AE:6B:1A:95:70:95:3B:FE:21:5D:29:C8:F3:3F:63:CA:5E:FD:90:88:47:C6:38"
+      ]
+    }
+  }
+]
